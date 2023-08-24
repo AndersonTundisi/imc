@@ -2,7 +2,8 @@
 
 #Introdução
 O Índice de Massa Corporal (IMC) é uma medida amplamente utilizada para avaliar a saúde de uma pessoa com base na relação entre seu peso e altura. Este relatório descreve a criação de um programa para calcular o IMC usando a linguagem de programação Python na Google Cloud Shell Editor. Além disso, será abordada a utilização da ferramenta Google Cloud Shell Editor e linguagem Python para a criação deste programa.
-Métodos
+
+#Métodos
 Utilização da Google Cloud Shell Editor
 A Google Cloud Shell Editor é uma ferramenta de desenvolvimento baseada na web que permite escrever, editar e executar código diretamente no navegador. Ela é especialmente útil para projetos de desenvolvimento na nuvem e oferece um ambiente de programação interativo.
 Para acessar a Google Cloud Shell Editor, é necessário ter uma conta no Google Cloud Platform (GCP). Após o login, o usuário pode abrir a Cloud Shell Editor a partir do ícone correspondente no canto superior direito da interface do GCP.
